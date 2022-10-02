@@ -243,6 +243,10 @@ li::marker {
     background-color: #fff;
   }
 
+  .mobile-menu menu {
+    padding-top: 15px;
+  }
+
   .content {
     grid-template-columns: 1fr;
   }
