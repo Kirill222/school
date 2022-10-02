@@ -92,6 +92,7 @@ ul {
   padding-top: 30px;
   font-family: 'Roboto Slab', serif;
   text-align: right;
+  padding-right: 20px;
 }
 
 .content {
@@ -251,6 +252,9 @@ li::marker {
   .main-header {
     font-size: 20px;
     text-align: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    max-width: 250px;
   }
 
   .content {
