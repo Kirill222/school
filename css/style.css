@@ -91,6 +91,7 @@ ul {
   margin-left: auto;
   padding-top: 30px;
   font-family: 'Roboto Slab', serif;
+  text-align: right;
 }
 
 .content {
@@ -245,6 +246,11 @@ li::marker {
 
   .mobile-menu menu {
     padding-top: 15px;
+  }
+
+  .main-header {
+    font-size: 20px;
+    text-align: right;
   }
 
   .content {
